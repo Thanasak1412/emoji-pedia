@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://thanasak1412.github.io/emoji-pedia",
+  "homepage": "http://thanasak1412.github.io/emoji-pedia",
   "dependencies": {
     "react": "16.8.6",
     "react-dom": "16.8.6",
@@ -17,7 +17,7 @@
     "estart": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts ejct",
+    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
